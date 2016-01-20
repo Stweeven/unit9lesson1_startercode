@@ -1,8 +1,15 @@
 body {
-    background-color: lightblue;
+    background-color: white;
 }
 
 h1 {
     font-style: italic;
     font-size: 50px;
+}
+
+#index-h1 {
+    font-size: 50px;
+    font-family: "Comic sans MS";
+    width: 1000px;
+    color: white;
 }
